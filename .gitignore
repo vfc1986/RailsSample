@@ -9,6 +9,9 @@
 /log/*.log
 /tmp
 
+# Ignore Netbeans Project
+/nbproject/
+
 # Ignore other unneeded files.
 database.yml
 doc/
