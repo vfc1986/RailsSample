@@ -10,7 +10,7 @@
 /tmp
 
 # Ignore Netbeans Project
-/nbproject/
+nbproject/
 
 # Ignore other unneeded files.
 database.yml
@@ -21,3 +21,4 @@ doc/
 .DS_Store
 .idea
 .secret
+Gemfile.lock
