@@ -9,8 +9,10 @@
 /log/*.log
 /tmp
 
+# Ignore Netbeans Project
+nbproject/
+
 # Ignore other unneeded files.
-database.yml
 doc/
 *.swp
 *~
@@ -18,3 +20,4 @@ doc/
 .DS_Store
 .idea
 .secret
+*.lock
